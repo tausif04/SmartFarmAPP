@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089095889147",
+    "project_id": "cheerpark-450f1",
+    "storage_bucket": "cheerpark-450f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089095889147:android:abc248b769bdff2e3b005e",
+        "android_client_info": {
+          "package_name": "com.iot.smartFarming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxQv8fI77W0sV8_c02qr7Y4Yf2lUG0dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
